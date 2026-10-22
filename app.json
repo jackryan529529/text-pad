@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "Text Pad",
+    "slug": "text-pad",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.yourname.textpad"
+    }
+  }
+}
+
